@@ -1,5 +1,13 @@
 # 💫 About Me:
-🚀 I’m currently working on Full Stack & Frontend Development Projects  <br><br>🤝 I’m looking to collaborate on MERN Stack and AI-based Web Applications  <br><br>🛠️ I’m looking for help with scalable backend architecture and system design  <br><br>🌱 I’m currently learning Advanced MERN Stack, Backend Development, and DSA  <br><br>💬 Ask me about React, JavaScript, Tailwind CSS, Frontend Development, and DSA  <br><br>🏆 Shortlisted for Infosys DSE On-Campus Hiring among Top 15 students out of 800+ candidates  <br><br>🧠 Solved 150+ DSA Questions across Arrays, Strings, Searching, Sorting, Recursion, and Problem Solving  <br><br>🔥 Live Projects:<br>- DevScaffold → Project Initialization & Configuration Platform  <br>- AI Thumbnail Generator → AI-powered thumbnail generation web app  <br>- Trust Website → Modern responsive business/client website  <br><br>⚡ Fun fact: I enjoy turning complex ideas into clean and user-friendly web applications
+I’m Adarsh Mishra, a passionate Frontend Developer and MERN Stack learner currently pursuing B.Tech in Computer Science. I enjoy building modern, responsive, and real-world web applications using React, JavaScript, Tailwind CSS, and modern web technologies.
+
+I have worked on multiple live projects including DevScaffold — a project initialization and configuration platform, an AI Thumbnail Generator, and a Trust Website. I’m also actively improving my problem-solving skills and have solved 150+ DSA questions covering arrays, strings, searching, sorting, and recursion.
+
+I was shortlisted for the Infosys DSE On-Campus Hiring process among the Top 15 students out of 800+ candidates, which strengthened my interest in software development and scalable application building.
+
+Currently, I’m focused on mastering the MERN Stack, improving backend development skills, and building production-level projects that solve real-world problems.
+
+I’m looking to collaborate on MERN Stack and AI-based Web Applications  <br><br>🛠️ I’m looking for help with scalable backend architecture and system design  <br><br>🌱 I’m currently learning Advanced MERN Stack, Backend Development, and DSA  <br><br>💬 Ask me about React, JavaScript, Tailwind CSS, Frontend Development, and DSA  <br><br>🏆  Live Projects:<br>- DevScaffold → Project Initialization & Configuration Platform  <br>- AI Thumbnail Generator → AI-powered thumbnail generation web app  <br>- Trust Website → Modern responsive business/client website  <br><br>⚡ Fun fact: I enjoy turning complex ideas into clean and user-friendly web applications
 
 
 ## 🌐 Socials:
