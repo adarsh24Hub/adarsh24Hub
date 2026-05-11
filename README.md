@@ -1,4 +1,4 @@
-I’m Adarsh Mishra, a passionate Frontend Developer and MERN Stack learner currently pursuing B.Tech in Computer Science. I enjoy building scalable, modern, and real-world web applications using React, JavaScript, Tailwind CSS, TypeScript, and MERN technologies.
+I’m Adarsh Mishra, a passionate Frontend  and MERN Stack developer currently pursuing B.Tech in Computer Science. I enjoy building scalable, modern, and real-world web applications using React, JavaScript, Tailwind CSS, TypeScript, and MERN technologies.
 
 I have built and deployed multiple live projects including:
 
