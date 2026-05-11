@@ -1,13 +1,21 @@
-# 💫 About Me:
-I’m Adarsh Mishra, a passionate Frontend Developer and MERN Stack learner currently pursuing B.Tech in Computer Science. I enjoy building modern, responsive, and real-world web applications using React, JavaScript, Tailwind CSS, and modern web technologies.
+I’m Adarsh Mishra, a passionate Frontend Developer and MERN Stack learner currently pursuing B.Tech in Computer Science. I enjoy building scalable, modern, and real-world web applications using React, JavaScript, Tailwind CSS, TypeScript, and MERN technologies.
 
-I have worked on multiple live projects including DevScaffold — a project initialization and configuration platform, an AI Thumbnail Generator, and a Trust Website. I’m also actively improving my problem-solving skills and have solved 150+ DSA questions covering arrays, strings, searching, sorting, and recursion.
+I have built and deployed multiple live projects including:
 
-I was shortlisted for the Infosys DSE On-Campus Hiring process among the Top 15 students out of 800+ candidates, which strengthened my interest in software development and scalable application building.
+🔹 DevScaffold — A project initialization and configuration platform  
+🌐 https://devscaffold-rho.vercel.app/
 
-Currently, I’m focused on mastering the MERN Stack, improving backend development skills, and building production-level projects that solve real-world problems.
+🔹 Trust Website — A modern responsive business/client website  
+🌐 https://matakalisst.vercel.app/
 
-I’m looking to collaborate on MERN Stack and AI-based Web Applications  <br><br>🛠️ I’m looking for help with scalable backend architecture and system design  <br><br>🌱 I’m currently learning Advanced MERN Stack, Backend Development, and DSA  <br><br>💬 Ask me about React, JavaScript, Tailwind CSS, Frontend Development, and DSA  <br><br>🏆  Live Projects:<br>- DevScaffold → Project Initialization & Configuration Platform  <br>- AI Thumbnail Generator → AI-powered thumbnail generation web app  <br>- Trust Website → Modern responsive business/client website  <br><br>⚡ Fun fact: I enjoy turning complex ideas into clean and user-friendly web applications
+🔹 Thumblify AI — An AI-powered YouTube thumbnail generator  
+🌐 https://thumblify-yt.vercel.app/
+
+Alongside development, I actively practice Data Structures & Algorithms and have solved 150+ DSA questions covering arrays, strings, searching, sorting, recursion, and problem-solving patterns.
+
+I was shortlisted for the Infosys DSE On-Campus Hiring process among the Top 15 students out of 800+ candidates, which strengthened my interest in software engineering, scalable systems, and production-level application development.
+
+Currently, I’m focused on mastering Full Stack Development, backend architecture, and building impactful products that solve real-world problems.
 
 
 ## 🌐 Socials:
